@@ -486,7 +486,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .timeline > li {
-  margin-bottom: 20px;
+  margin-bottom: 50px;
   position: relative;
 }
 .timeline > li:before, .timeline > li:after {
@@ -555,7 +555,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 16px;
   left: 50%;
   margin-left: -80px;
-  background-color: #999999;
+  background-color: #fff;
   z-index: 100;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1858,6 +1858,10 @@ form label {
 
 #fh5co-couple .fh5co-heading h3{
   color: #828282;
+}
+
+.negative-margin-bottom {
+  margin-bottom: 0;
 }
 
 /*# sourceMappingURL=style.css.map */
