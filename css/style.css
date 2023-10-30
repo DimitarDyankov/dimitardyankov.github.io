@@ -322,7 +322,19 @@ h1, h2, h3, h4, h5, h6, figure {
     background-position: -330px 0px !important;
   }
 }
-@media screen and (max-width: 768px) and (min-width: 421px) {
+@media screen and (max-width: 530px) and (min-width: 421px) {
+  .fh5co-cover {
+    height: 400px;
+    background-position: -70px 0px !important;
+  }
+}
+@media screen and (max-width: 630px) and (min-width: 531px) {
+  .fh5co-cover {
+    height: 500px;
+    background-position: -20px 0px !important;
+  }
+}
+@media screen and (max-width: 768px) and (min-width: 631px) {
   .fh5co-cover {
     height: 500px;
     background-position: 0px 0px !important;
