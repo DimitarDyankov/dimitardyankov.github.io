@@ -340,7 +340,7 @@ h1, h2, h3, h4, h5, h6, figure {
     background-position: 0px 0px !important;
   }
 }
-@media screen and (max-width: 860px) and (min-width: 769px) {
+@media screen and (max-width: 875px) and (min-width: 769px) {
   .fh5co-cover {
     background-position: -250px 0px !important;
   }
